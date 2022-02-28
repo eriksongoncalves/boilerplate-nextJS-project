@@ -6,4 +6,4 @@ export default {
     site_name: 'Site name',
     title: 'Boilerplate - NextJS'
   }
-};
+}

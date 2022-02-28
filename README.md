@@ -7,8 +7,12 @@ Clone o projeto usando:
 
 Na raiz do projeto instale as dependências:
 
-`yarn install ou npm install`
+```
+  yarn install
+```
 
 ## Rode o projeto:
 
-`yarn dev ou npm dev`
+```
+  yarn dev
+```
